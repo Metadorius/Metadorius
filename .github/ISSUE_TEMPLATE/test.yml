@@ -1,0 +1,9 @@
+name: Phobos Bugfix Request
+description: Open an issue to ask for a phobos bug to be fixed.
+title: "Your bug report title here"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - [ ] check
+        - [x] uncheck
