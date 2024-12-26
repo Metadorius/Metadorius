@@ -2,12 +2,13 @@
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dkerbiter%26type%3Dpledges&style=flat)](https://patreon.com/kerbiter)
 
-I'm an inspired software engineer both at heart and in life. Currently I am a developer in [Phobos](https://github.com/Phobos-developers) and [CnCNet](https://cncnet.org) teams and run a few **Command & Conquer**-related communities. What I'm mainly occupied with now is public **Command & Conquer**-related projects, such as:
+I'm an inspired software engineer both at heart and in life. I am one of the founders of [Phobos](https://github.com/Phobos-developers) and one of the admins of [CnCNet](https://cncnet.org) and run a few **Command & Conquer**-related communities.
+
+My most important projects which I either created or help manage/maintain are mostly **Command & Conquer**-related projects, such as:
  - [Phobos](https://github.com/Phobos-developers/Phobos) - an [Ares](https://github.com/Ares-Developers/Ares)-compatible Yuri's Revenge engine extension project which provides mod makers with additional possibilites for their mods;
- - [XNA CnCNet Client](https://github.com/CnCNet/xna-cncnet-client) - both of them provide a way to play legacy C&C titles online and on modern system;
- - [CnCNet Discord bot](https://github.com/Metadorius/cncnet-discord-bot) which provides connection of aforementioned CnCNet client-based mod or game lobbies and lists game rooms in a Discord server channel;
+ - [XNA CnCNet Client](https://github.com/CnCNet/xna-cncnet-client) - a front-end application using C# and a custom for legacy C&C games to be played on modern systems;
  - ...and also other numerous projects within the community where I didn't contribute as much.
 
-My main sphere of knowledge and my skills lie in backend web development and desktop development. I am also interested in game development, reverse engineering, low-level stuff, embedded development, DevOps etc. I try to always learn something new that interests me, not only programming-related, but sadly it's not possible to learn everything :)
+Recently I've been advancing in general software architecturing, problem solving and management. Tech-wise my main skills are desktop development (C#), reverse-engineering/patching (C++, ASM), backend development (Python). I am also interested in game development, low-level stuff, embedded development, DevOps etc.
 
 You can support me on [my Patreon](https://www.patreon.com/kerbiter).
